@@ -10,6 +10,10 @@ Dosen Pengampu:Agung Nugroho, M.Kom
 
 ![image](https://github.com/user-attachments/assets/cb42ba27-4641-4684-b2d4-b6a2c7019348)
 
+# Berikut bentuk kodenya
+
+<img width="390" alt="Screenshot 2024-11-18 211147" src="https://github.com/user-attachments/assets/2c5e3362-1cc5-4d06-995c-89837b856a97">
+
 
 # Kodingan Program
 # List untuk menyimpan data mahasiswa
